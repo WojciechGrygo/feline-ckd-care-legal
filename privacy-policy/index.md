@@ -2,7 +2,7 @@
 
 **App:** Feline CKD Care  
 **Effective Date: June 18, 2026**  
-**Version: 1.1.0**
+**Version: 2.0.0**
 
 ---
 
